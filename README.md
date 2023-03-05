@@ -31,4 +31,4 @@ This project was made by Yoann Ayoub and Louise Lizé.
 6. In menu bar : Engines > Manage > Select : select your AI
 7. Click on "Demo" button and let's play!.
 
-*Autumn Semester 2022 @ UQAC*
+*Autumn 2022 Semester @ UQAC*
