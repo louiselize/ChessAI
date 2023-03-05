@@ -1,6 +1,6 @@
 # ChessAI
 
-I am thrilled to introduce my Chess AI project, which was completed as part of my coursework at school. Using the Arena platform, I implemented both the MinMax and Alpha Beta pruning algorithms to optimize andcreate an AI capable of challenging players.♟️
+I am thrilled to introduce my Chess AI project, which was completed as part of my coursework at school. Using the Arena platform, I implemented both the MinMax and Alpha Beta pruning algorithms to optimize and create an AI capable of challenging players.♟️
 
 I invite you to explore my repository to learn more about the development process and see the final product in action!
 
