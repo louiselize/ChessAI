@@ -6,22 +6,24 @@ I invite you to explore this repository to learn more about the development proc
 
 ➡️ See our [school report](https://github.com/louiselize/ChessAI/blob/main/REPORT_LIZE_AYOUB_CHESS_IA_UQAC.pdf) (in french).
 
-Out of ten teams in our class, our project stood out and we were able to secure second place in the AI competition ! 🏆
+## Results
+
+Out of ten teams in our class, our project stood out and we were able to secure **second place** in the AI competition ! 🏆
 
 
 ## Contributors
 This project was made by Yoann Ayoub and Louise Lizé.
 
 - Yoann work's:
-  - communication with Arena (inspired by this [youtube channel](https://youtu.be/V_2-LOvr5E8))
+  - communication with Arena (inspired by this [Youtube channel](https://youtu.be/V_2-LOvr5E8))
   - board evalution
 
 - Louise work's
   - all the remaining
 
 
-# How to test the agent?
-1. Download Arena (http://www.playwitharena.de/)
+## How to test the agent?
+1. Download [Arena](http://www.playwitharena.de/)
 2. Download this jar file (https://github.com/louiselize/ChessAI/blob/main/out/artifacts/ChessAI_jar/ChessAI.jar)
 3. Open Arena
 4. In menu bar : Engines > Install New Engine : add the previous jar file downloaded (make sure type selected is .jar)
