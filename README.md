@@ -30,3 +30,5 @@ This project was made by Yoann Ayoub and Louise Lizé.
 5. In menu bar : Engines > Manage > Details : select your AI and change "Type" to UCI
 6. In menu bar : Engines > Manage > Select : select your AI
 7. Click on "Demo" button and let's play!.
+
+Autumn Semester 2022 @ UQAC
