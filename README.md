@@ -6,6 +6,8 @@ I invite you to explore this repository to learn more about the development proc
 
 ➡️ See our [school report](https://github.com/louiselize/ChessAI/blob/main/REPORT_LIZE_AYOUB_CHESS_IA_UQAC.pdf) (in french).
 
+Out of ten teams in our class, our project stood out and we were able to secure second place in the AI competition ! 🏆
+
 
 ## Contributors
 This project was made by Yoann Ayoub and Louise Lizé.
