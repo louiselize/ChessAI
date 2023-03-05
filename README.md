@@ -1,6 +1,8 @@
 # ChessAI
 
-This repository is about an agent able to play chess thanks to MinMax algorithm. 
+I am thrilled to introduce my Chess AI project, which was completed as part of my coursework at school. Using the Arena platform, I implemented both the MinMax and Alpha Beta pruning algorithms to optimize andcreate an AI capable of challenging players.♟️
+
+I invite you to explore my repository to learn more about the development process and see the final product in action!
 
 **Contributors**
 This project was made by Yoann Ayoub and Louise Lizé.
@@ -12,7 +14,7 @@ Yoann work's:
 Louise work's
 - all the remaining
 
-See explanation (in french) here (https://github.com/louiselize/ChessAI/blob/main/REPORT_LIZE_AYOUB_CHESS_IA_UQAC.pdf) 
+See our school report (in french) [here](https://github.com/louiselize/ChessAI/blob/main/REPORT_LIZE_AYOUB_CHESS_IA_UQAC.pdf) 
 
 
 **How to test the agent?**
